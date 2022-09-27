@@ -4,20 +4,20 @@
 
 Zasada: fake it, fake it 'till you make it ;-)
 
-- paradygmat docs as code
-- HAT - Help Authoring Tools
-- single sourcing - napisz raz, publikuj w wielu miejscach
-- HTML + CSS - nice to have
-- podstawy programowania i wiedzy na temat sieci - przydatne choćby przy dokumentowaniu API
-- DITA xml - standard pozwalający oznaczać tekst semantycznymi tagami, dzięki czemu możemy nadać dokumentowi czytelną strukturę
+- <!-- .element: class="fragment fade-in-then-semi-out" --> paradygmat docs as code
+- <!-- .element: class="fragment fade-in-then-semi-out" --> HAT - Help Authoring Tools
+- <!-- .element: class="fragment fade-in-then-semi-out" --> single sourcing - napisz raz, publikuj w wielu miejscach
+- <!-- .element: class="fragment fade-in-then-semi-out" --> HTML + CSS - nice to have
+- <!-- .element: class="fragment fade-in-then-semi-out" --> podstawy programowania i wiedzy na temat sieci - przydatne choćby przy dokumentowaniu API
+- <!-- .element: class="fragment fade-in-then-semi-out" --> DITA xml - standard pozwalający oznaczać tekst semantycznymi tagami, dzięki czemu możemy nadać dokumentowi czytelną strukturę
 
 ---
 ## A u mnie?
 
 Tworząc tę prezentację korzystałam z:
 
-- reveal.js - javascriptowej biblioteki do prezentacji
-- Markdowna
-- odrobiny CSS
-- Visual Studio Code czyli IDE (integrated development environment)
-- gita + GitHub Pages
+- <!-- .element: class="fragment fade-in-then-semi-out" --> reveal.js - javascriptowej biblioteki do prezentacji
+- <!-- .element: class="fragment fade-in-then-semi-out" --> Markdowna
+- <!-- .element: class="fragment fade-in-then-semi-out" --> odrobiny CSS
+- <!-- .element: class="fragment fade-in-then-semi-out" --> Visual Studio Code czyli IDE (integrated development environment)
+- <!-- .element: class="fragment fade-in-then-semi-out" --> gita + GitHub Pages
