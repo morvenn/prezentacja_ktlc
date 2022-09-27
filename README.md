@@ -1,7 +1,6 @@
-# Presentation about CSS
+# Presentation about becoming a techwriter
 
-This is a presentation about slightly more advanced aspects of
-CSS language.
+This is a presentation about becoming a techwriter.
 
 This presentation uses [reveal.js presentation engine](https://revealjs.com). For more info see [here](./README-reveal.md).
 
