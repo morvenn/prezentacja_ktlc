@@ -1,6 +1,6 @@
 ### Żeby nie było za różowo...
 
-![junior i manager](../images/iamdocumentation.jpg)
+![junior i manager](images/iamdocumentation.jpg)
 
 ---
 

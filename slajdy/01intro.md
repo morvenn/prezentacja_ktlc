@@ -2,7 +2,7 @@
 
 ### czyli jak nie zostałam programistką
 
-![techwriter_logo](../images/techwriter-png-640p-x-71p.png)
+![techwriter_logo](images/techwriter-png-640p-x-71p.png)
 ---
 
 ## Agenda

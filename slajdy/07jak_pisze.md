@@ -14,4 +14,4 @@
 - Persony, testy użyteczności
 
 
-![Radocha](../images/link-yes.gif)
+![Radocha](images/link-yes.gif)
