@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>Z technicznego na nasze</title>
+
+  <link rel="stylesheet" href="dist/reset.css">
+  <link rel="stylesheet" href="dist/reveal.css">
+  <link rel="stylesheet" href="dist/theme/league.css">
+
+  <!-- Theme used for syntax highlighted code -->
+  <link rel="stylesheet" href="plugin/highlight/nord.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap');
+    .footnote { font-size: 0.6em; }
+    p, li { font-size: 0.7em; }
+    li > p,
+    li li { font-size: 1em; }
+    section .footnote.fragment.visible.current-fragment { opacity: .6; }
+    .link-with-background {
+      background-color: #2b2d30;
+      border-radius: 10px;
+      padding: 4px 8px;
+      box-shadow: 2px 2px 6px 2px rgb(255 255 255 / 60%);
+    }
+    .autopromo { display: flex; flex-flow: row nowrap; gap: 1.5em; justify-content: center; align-items: center; margin-top: 1.5em; }
+    .socials { display: flex; flex-flow: column nowrap; }
+    .socials > a { display: flex; align-items: center; gap: 0.5em; justify-content: flex-start; }
+    .autorka { width: 300px; }
+  </style>
+</head>
+
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section data-markdown="slajdy/01intro.md"></section>
+      <section data-markdown="slajdy/02dokumentacja_czyli_co.md"></section>
+      <section data-markdown="slajdy/03humanistka_w_it.md"></section>
+      <section data-markdown="slajdy/04tlumacz_techwriter.md"></section>
+      <section data-markdown="slajdy/05co_pisze.md"></section>
+      <section data-markdown="slajdy/06co_pisze2.md"></section>
+      <section data-markdown="slajdy/07jak_pisze.md"></section>
+      <section data-markdown="slajdy/08typowe_problemy.md"></section>
+      <section data-markdown="slajdy/09ile_technicznosci.md"></section>
+      <section data-markdown="slajdy/10rozwoj_perspektywy.md"></section>
+      <section data-markdown="slajdy/11spolecznosc.md"></section>
+      <section data-markdown="slajdy/12bibliografia.md"></section>
+      <!-- <section><h2>Q & A</h2></section> -->
+      <section>
+        <h2>Dziękuję za uwagę :-)</h2>
+        <div class="autopromo">
+          <img src="images/jo.png" alt="Ja" class="autorka">
+          <div class="socials">
+            <a href="https://github.com/morvenn"><img src="images/GitHub-Mark-Light-64px.png" alt="github"> /morvenn</a>
+            <a href="https://facebook.com/morvenn"><img src="images/Facebook_icon.svg" width="64" alt="FB"> /morvennn</a>
+            <a href="https://linkedin.com/in/magdaniedzwiecka"><img src="images/LinkedIn_icon.svg" width="64" alt="LinkedIn"> /in/magdaniedzwiecka</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <script src="dist/reveal.js"></script>
+  <script src="plugin/notes/notes.js"></script>
+  <script src="plugin/markdown/markdown.js"></script>
+  <script src="plugin/highlight/highlight.js"></script>
+  <script src="plugin/zoom/zoom.js"></script>
+  <script>
+    // More info about initialization & config:
+    // - https://revealjs.com/initialization/
+    // - https://revealjs.com/config/
+    Reveal.initialize({
+      hash: true,
+      width: 1000,
+      controlsTutorial: false,
+      markdown: {
+        smartLists: true,
+        smartypants: true
+      },
+
+      // Learn about plugins: https://revealjs.com/plugins/
+      plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom]
+    });
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+examples/*
+test/*
+demo.html
+package.json
+package-lock.json
+node_modules
