@@ -14,4 +14,4 @@
 
 - [raport ITCQF](https://itcqf.org/materials/) - omówienie płac i perspektyw zatrudnienia w Europie Środkowo Wschodniej, dane z 2022
 
-![Raport ITCQF](images/itcqf_report.jpg)
+![Raport ITCQF](images/itcqf_report.jpg)<!-- .element: style="width:600px" -->
