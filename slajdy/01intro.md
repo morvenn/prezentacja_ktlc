@@ -1,3 +1,5 @@
+#### Magdalena Niedźwiecka
+
 # Z technicznego<br>na nasze
 
 ### czyli jak nie zostałam programistką
